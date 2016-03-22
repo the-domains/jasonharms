@@ -1,6 +1,6 @@
 name: jasonharms
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.28107
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#c9b682'
     - '#46575e'
-  brandStrength: 0.9375
+  brandStrength: 1
   lightness: 0.125
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
