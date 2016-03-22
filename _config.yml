@@ -1,0 +1,28 @@
+name: jasonharms
+favicon: null
+layout_spectrum: 0.6977976760827005
+typography_spectrum: 0.06077193492092192
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7037620963528752
+  lightness: 0.6402238646987826
+  saturation: 0.2342325255740434
+  rhythmicContrast: 0.20622722269035876
+purpose: []
